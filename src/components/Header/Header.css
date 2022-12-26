@@ -1,0 +1,11 @@
+.container{
+    background-color: #dadbf1;
+    height: 30vh;
+   
+}
+
+.helptitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
