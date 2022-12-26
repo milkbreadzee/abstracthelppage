@@ -1,0 +1,44 @@
+.box{
+    
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10rem 8rem 10rem 8rem;
+}
+
+.griditem{
+    background-color: white;
+    color: black;
+   
+    padding: 1rem 1rem 1rem 1rem;
+
+}
+
+.grid1{
+    display: flex;
+    flex-direction: row;
+}
+
+.grid11{
+    display: flex;
+    flex-direction: column;
+}
+
+.box img{
+   height: 100px;
+   width: 100px;
+   margin: 2rem 2rem 2rem 2rem;
+}
+
+.box h2{
+    margin-bottom: 0;
+    font-size: 24px;
+}
+
+.box p{
+    font-size: 22px;
+}
+
+.box a{
+    text-decoration: none;
+    font-size: 20px;
+}
